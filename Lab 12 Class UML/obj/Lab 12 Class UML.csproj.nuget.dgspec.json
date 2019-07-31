@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\myers\\source\\repos\\Week three tutorials, labs, capstone, and assessments\\Lab 12 Class UML\\Lab 12 Class UML\\Lab 12 Class UML.csproj": {}
+    "C:\\Users\\Cody's PC\\Desktop\\Lab-12-Abstract-classes\\Lab 12 Class UML\\Lab 12 Class UML.csproj": {}
   },
   "projects": {
-    "C:\\Users\\myers\\source\\repos\\Week three tutorials, labs, capstone, and assessments\\Lab 12 Class UML\\Lab 12 Class UML\\Lab 12 Class UML.csproj": {
+    "C:\\Users\\Cody's PC\\Desktop\\Lab-12-Abstract-classes\\Lab 12 Class UML\\Lab 12 Class UML.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\myers\\source\\repos\\Week three tutorials, labs, capstone, and assessments\\Lab 12 Class UML\\Lab 12 Class UML\\Lab 12 Class UML.csproj",
+        "projectUniqueName": "C:\\Users\\Cody's PC\\Desktop\\Lab-12-Abstract-classes\\Lab 12 Class UML\\Lab 12 Class UML.csproj",
         "projectName": "Lab 12 Class UML",
-        "projectPath": "C:\\Users\\myers\\source\\repos\\Week three tutorials, labs, capstone, and assessments\\Lab 12 Class UML\\Lab 12 Class UML\\Lab 12 Class UML.csproj",
-        "packagesPath": "C:\\Users\\myers\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\myers\\source\\repos\\Week three tutorials, labs, capstone, and assessments\\Lab 12 Class UML\\Lab 12 Class UML\\obj\\",
+        "projectPath": "C:\\Users\\Cody's PC\\Desktop\\Lab-12-Abstract-classes\\Lab 12 Class UML\\Lab 12 Class UML.csproj",
+        "packagesPath": "C:\\Users\\Cody's PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cody's PC\\Desktop\\Lab-12-Abstract-classes\\Lab 12 Class UML\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\myers\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Cody's PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"

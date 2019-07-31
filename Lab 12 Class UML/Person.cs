@@ -13,7 +13,9 @@ namespace Lab_12_Class_UML
             Name = name;
             Address = address;
         }
-
-
+        public override string ToString()
+        {
+            return $"name: {Name}, address: {Address}";
+        }
     }
 }

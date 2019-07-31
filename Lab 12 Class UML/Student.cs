@@ -9,11 +9,15 @@ namespace Lab_12_Class_UML
         private string Program;
         private int Year;
         private double Fee;
-        public Student(string name, string address):base(name, address)
+        public Student(string program, int year, double fee, string name, string address):base(name, address)
         {
-            Program = "Science";
-            Year = 12;
-            Fee = 3258.20;
+            this.Program = program;
+            this.Year = year;
+            this.Fee = fee;
+        }
+        public override string ToString()
+        {
+            return $"program: {Program}, year: {Year}, fee: {Fee}" ;
         }
     }
 }
